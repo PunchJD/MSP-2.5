@@ -1,1 +1,531 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432372196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432387283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432402372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432405432 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432420621 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432435712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432438770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432453857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432468941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432472001 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432487109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432502208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432505277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432520368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432523443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432538542 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432553649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432556736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432571828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432586939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432590028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432605274 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432620367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432623433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432638528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432647605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432650667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432653751 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432668844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432671914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432687015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432702104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432705171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432720257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432723322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432738417 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432753508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432768643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432771726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432786823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432801919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432804991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432820092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432823163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432838283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432841346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432856455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432859515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432874607 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432877669 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432892761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432895823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432910918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432926009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432941148 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432944209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432926129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432941269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432944424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432928271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432943363 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+ 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432819112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432822176 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432837272 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432840334 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432855451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432858522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432873629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432876711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432891810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432894880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432909983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730432913053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432928159 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730432943258 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+golf-accomplish.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
